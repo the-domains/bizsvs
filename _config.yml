@@ -1,0 +1,28 @@
+name: BizSvs
+favicon: null
+layout_spectrum: 0.7329135653562844
+typography_spectrum: 0.5399636812508106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7303528832271695
+  lightness: 0.2991939091589302
+  saturation: 0.3996922308579087
+  rhythmicContrast: 0.46995472232811153
+purpose: []
